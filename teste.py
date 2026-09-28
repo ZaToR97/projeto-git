@@ -1,1 +1,1 @@
-Esse é um teste
+print('Esse é um teste')
